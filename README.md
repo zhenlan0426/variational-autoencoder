@@ -1,2 +1,2 @@
 # variational-autoencoder
-build VAE and apply it to MNIST
+Implement VAE/Conditional VAE and apply it to MNIST
